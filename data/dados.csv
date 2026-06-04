@@ -1,0 +1,9 @@
+horario,energia_reserva,consumo_kwh,geracao_solar,temperatura_interna,temperatura_externa,radiacao,qualidade_comunicacao,velocidade_vento,suporte_vida,energia,comunicacao,habitat,laboratorio,armazenamento,evento
+2026-05-25 18:00,46,72,34,22,-68,3.2,91,18,1,1,1,1,1,1,Inicialização nominal da missão
+2026-05-25 20:00,42,74,31,23,-70,4.1,87,21,1,1,1,1,1,1,Ajuste de painéis solares
+2026-05-25 22:00,38,77,28,24,-73,5.3,82,26,1,1,1,1,0,1,Alerta de laboratório em manutenção
+2026-05-26 00:00,32,78,25,25,-76,6.0,70,33,1,1,1,1,0,1,Modo de economia ativado
+2026-05-26 02:00,28,80,22,26,-79,6.8,58,39,1,1,1,1,0,1,Comunicação com latência elevada
+2026-05-26 04:00,24,81,20,27,-82,7.6,43,46,1,1,0,1,0,1,Falha parcial de comunicação e radiação alta
+2026-05-26 06:00,21,79,24,28,-80,7.9,49,42,1,1,0,1,ERRO,1,Inconsistência proposital no sensor do laboratório
+2026-05-26 08:00,19,76,29,27,-77,6.9,62,35,1,1,1,1,1,1,Reinicialização de comunicação concluída
