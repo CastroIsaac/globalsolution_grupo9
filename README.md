@@ -4,8 +4,11 @@
 - Nome da equipe: **Socorro.py**
 - Integrantes/RMs:
 **Isaac Aurélio de Freitas Castro | RM 571175**
+
 **Julia Guimarães | RM 572241**
+
 **Samirah Pinotti Deranian | RM 573375**
+
 **Luiz Pedro Pereira Duarte | RM 568970**
 
 ## Resumo do problema
