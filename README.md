@@ -1,10 +1,6 @@
 # Sistema Inteligente de Monitoramento - Missão Espacial Experimental
 
 ## Equipe
-<<<<<<< HEAD
-- Nome da equipe: **Orion Sentinel**
-- Integrantes/RMs: **preencher com os nomes e RMs reais antes da entrega**
-=======
 - Nome da equipe: **Socorro.py**
 - Integrantes/RMs:
 
