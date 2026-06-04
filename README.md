@@ -15,7 +15,7 @@
 **Samirah Pinotti Deranian | RM 573375**
 
 **Luiz Pedro Pereira Duarte | RM 568970**
->>>>>>> becb2b2d65b83e110de6ec14db0c9687c94d0965
+
 
 ## Resumo do problema
 Missões espaciais dependem de monitoramento contínuo para garantir segurança da tripulação, eficiência energética, comunicação e proteção contra eventos ambientais. Este projeto simula uma missão espacial experimental e interpreta dados de telemetria para identificar situações normais, de alerta ou críticas.
