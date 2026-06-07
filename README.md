@@ -86,5 +86,5 @@ Recomendações finais priorizadas:
 ## Link do vídeo no YouTube
 
 ```text
-[(https://youtu.be/1FGYOxDyLLg)]
+(https://www.youtube.com/watch?v=1FGYOxDyLLg)
 ```
