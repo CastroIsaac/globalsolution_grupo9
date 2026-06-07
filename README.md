@@ -84,8 +84,7 @@ Recomendações finais priorizadas:
 - Usar canal redundante caso a comunicação caia.
 
 ## Link do vídeo no YouTube
-Preencher após publicar como **Não Listado**:
 
 ```text
-https://youtu.be/COLE_O_LINK_AQUI
+[https://youtu.be/COLE_O_LINK_AQUI](https://youtu.be/1FGYOxDyLLg)
 ```
